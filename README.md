@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasaranha/)](https://www.linkedin.com/in/nickolasaranha/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aranha.nickolas@gmail.com)](mailto:aranha.nickolas@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/NickolasAranha)
+[![Linkedin](https://img.shields.io/badge/-NickolasAranha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasaranha/)](https://www.linkedin.com/in/nickolasaranha/)
+[![Gmail Badge](https://img.shields.io/badge/-aranha.nickolas@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aranha.nickolas@gmail.com)](mailto:aranha.nickolas@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/NickolsasAranha?label=follow&style=social)](https://github.com/NickolasAranha)
