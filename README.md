@@ -26,8 +26,8 @@
 
 <br/>
 
-<a href="https://github.com/NickolasAranha" title="Perfil do Nickolas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickolasAranha&theme=dracula&show_icons=true" />
+<a href="https://github.com/NickolasAranha" title="Portfólio">
+  <img height="180em" src="https://portfolio-nickolas.vercel.app/"/>
 </a>
 
 ## Onde me encontrar
