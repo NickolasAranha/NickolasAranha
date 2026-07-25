@@ -3,32 +3,29 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas 2/6.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas 4/6.
 - 💼 Em busca da primeira experiência no mercado de trabalho!.
-- 🌱 Aprofundando conhecimento em JAVA e seus frameworks.
+- 🌱 Aprofundando conhecimento em JAVA e SPRING.
 
-## Minhas Skills
-
-**Aplicações e dados**
+## Minhas Tecnologias
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven&logoColor=C71A36)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Intellij](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
-
-
 <br/>
 
-<a href="https://github.com/NickolasAranha" title="Portfólio">
-  <img height="180em" src="https://portfolio-nickolas.vercel.app/"/>
+## 🌐 Meu Portfólio
+
+<a href="https://portfolio-nickolas.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar_Portfólio_Online-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
+
+<br/><br/>
 
 ## Onde me encontrar
 
