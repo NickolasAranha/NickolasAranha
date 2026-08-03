@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas 4/6.
 - 💼 Em busca da primeira experiência no mercado de trabalho!.
-- 🌱 Aprofundando conhecimento em JAVA e SPRING.
+- 🌱 Aprofundando conhecimento em JAVA e SPRING BOOT.
 
 ## Minhas Tecnologias
 
